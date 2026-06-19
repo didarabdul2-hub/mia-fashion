@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "শাড়ি",
+      "price": 1200,
+      "image": "/uploads/saree.jpg"
+    },
+    {
+      "name": "থ্রি পিস",
+      "price": 950,
+      "image": "/uploads/three-piece.jpg"
+    }
+  ]
+}
